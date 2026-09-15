@@ -1,0 +1,197 @@
+{
+  "text-color": "#f8f8f2",
+  "background-color": "#272822",
+  "line-number-color": "#75715e",
+  "line-number-background-color": "#272822",
+  "text-styles": {
+    "Alert": {
+      "text-color": "#f92672",
+      "background-color": null,
+      "bold": true,
+      "italic": false,
+      "underline": false
+    },
+    "Annotation": {
+      "text-color": "#66d9ef",
+      "background-color": null,
+      "bold": false,
+      "italic": true,
+      "underline": false
+    },
+    "Attribute": {
+      "text-color": "#a6e22e",
+      "background-color": null,
+      "bold": false,
+      "italic": false,
+      "underline": false
+    },
+    "BaseN": {
+      "text-color": "#ae81ff",
+      "background-color": null,
+      "bold": false,
+      "italic": false,
+      "underline": false
+    },
+    "BuiltIn": {
+      "text-color": "#66d9ef",
+      "background-color": null,
+      "bold": false,
+      "italic": false,
+      "underline": false
+    },
+    "Char": {
+      "text-color": "#e6db74",
+      "background-color": null,
+      "bold": false,
+      "italic": false,
+      "underline": false
+    },
+    "Comment": {
+      "text-color": "#75715e",
+      "background-color": null,
+      "bold": false,
+      "italic": true,
+      "underline": false
+    },
+    "Constant": {
+      "text-color": "#ae81ff",
+      "background-color": null,
+      "bold": false,
+      "italic": false,
+      "underline": false
+    },
+    "ControlFlow": {
+      "text-color": "#f92672",
+      "background-color": null,
+      "bold": false,
+      "italic": false,
+      "underline": false
+    },
+    "DataType": {
+      "text-color": "#66d9ef",
+      "background-color": null,
+      "bold": false,
+      "italic": false,
+      "underline": false
+    },
+    "DecVal": {
+      "text-color": "#ae81ff",
+      "background-color": null,
+      "bold": false,
+      "italic": false,
+      "underline": false
+    },
+    "Documentation": {
+      "text-color": "#75715e",
+      "background-color": null,
+      "bold": false,
+      "italic": true,
+      "underline": false
+    },
+    "Error": {
+      "text-color": "#f8f8f2",
+      "background-color": "#f92672",
+      "bold": true,
+      "italic": false,
+      "underline": false
+    },
+    "Extension": {
+      "text-color": "#a6e22e",
+      "background-color": null,
+      "bold": false,
+      "italic": false,
+      "underline": false
+    },
+    "Float": {
+      "text-color": "#ae81ff",
+      "background-color": null,
+      "bold": false,
+      "italic": false,
+      "underline": false
+    },
+    "Function": {
+      "text-color": "#a6e22e",
+      "background-color": null,
+      "bold": false,
+      "italic": false,
+      "underline": false
+    },
+    "Import": {
+      "text-color": "#f92672",
+      "background-color": null,
+      "bold": false,
+      "italic": false,
+      "underline": false
+    },
+    "Information": {
+      "text-color": "#66d9ef",
+      "background-color": null,
+      "bold": false,
+      "italic": false,
+      "underline": false
+    },
+    "Keyword": {
+      "text-color": "#f92672",
+      "background-color": null,
+      "bold": false,
+      "italic": false,
+      "underline": false
+    },
+    "Operator": {
+      "text-color": "#f92672",
+      "background-color": null,
+      "bold": false,
+      "italic": false,
+      "underline": false
+    },
+    "Preprocessor": {
+      "text-color": "#f92672",
+      "background-color": null,
+      "bold": false,
+      "italic": false,
+      "underline": false
+    },
+    "SpecialChar": {
+      "text-color": "#fd971f",
+      "background-color": null,
+      "bold": false,
+      "italic": false,
+      "underline": false
+    },
+    "SpecialString": {
+      "text-color": "#e6db74",
+      "background-color": null,
+      "bold": false,
+      "italic": false,
+      "underline": false
+    },
+    "String": {
+      "text-color": "#e6db74",
+      "background-color": null,
+      "bold": false,
+      "italic": false,
+      "underline": false
+    },
+    "Variable": {
+      "text-color": "#f8f8f2",
+      "background-color": null,
+      "bold": false,
+      "italic": false,
+      "underline": false
+    },
+    "VerbatimString": {
+      "text-color": "#e6db74",
+      "background-color": null,
+      "bold": false,
+      "italic": false,
+      "underline": false
+    },
+    "Warning": {
+      "text-color": "#e6db74",
+      "background-color": null,
+      "bold": true,
+      "italic": false,
+      "underline": false
+    }
+  }
+}
